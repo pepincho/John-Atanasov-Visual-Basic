@@ -1,2 +1,6 @@
-# John-Atanasov-Visual-Basic
-Visual basic projects during education in John Atanasov
+# Visual Basic projects during education in John Atanasov.
+
+* Tic Tac Toe
+* The Amazing Car
+* Dodge Balls
+* Decimal to binary
